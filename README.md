@@ -1,4 +1,4 @@
-# Cyber_Security_Project
+# Cyber Security Project
 Analysis of Network flows, different cyber attacks and Android Malware.
 University Project - Artificial Intelligence for Security
 
